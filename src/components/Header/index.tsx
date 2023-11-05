@@ -13,7 +13,7 @@ const Header: FC<HeaderProps> = ({ color = "#fff" }) => {
         <b>turkishairlines.com</b>
       </Paragraph>
       <Paragraph>
-        search<b>Flight Challange</b>
+        search<b>Flight Challenge</b>
       </Paragraph>
     </HeaderContainer>
   );
